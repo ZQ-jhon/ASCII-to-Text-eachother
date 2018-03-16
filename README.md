@@ -4,10 +4,12 @@ ASCII码和明文相互转换
 
 <h1>核心API</h1>
 <pre>
-1.str.charCodeAt(index)    接受某个字符，返回其对应的ASCII码
+1.str.charCodeAt(index)    
+//接受某个字符，返回其对应的ASCII码
 //index可选，如果不写序号，则缺省为0
 
-2.String.FromCharCode(asc1,asc2,asc3);   以数字形式接收多个ASCII码参数，然后再将每个参数转换出的明文，再进行拼接/合成，最后返回。
+2.String.FromCharCode(asc1,asc2,asc3);   
+//以数字形式接收多个ASCII码参数，然后再将每个参数转换出的明文，再进行拼接/合成，最后返回。
 //这个API风格真的难受，一个加密一个解密...
 </pre>
 
