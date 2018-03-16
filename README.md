@@ -15,4 +15,4 @@ index可选，如果不写序号，则缺省为0
 
 
 <h1>预览/上手操作</h1>
-<a href="https://zq-jhon.github.io/ASCII-to-Text-eachother/index.html/">https://zq-jhon.github.io/ASCII-to-Text-eachother/index.html/</a>
+<a href="https://zq-jhon.github.io/ASCII-to-Text-eachother/index.html">https://zq-jhon.github.io/ASCII-to-Text-eachother/index.html</a>
